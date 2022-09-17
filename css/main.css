@@ -122,7 +122,7 @@ header nav a:hover {
 }
 
 aside {
-	background:#e67e22;
+	background:#e67d2200;
 	padding:20px;
 	/*FLEX*/
 	flex:1 1 20%;
@@ -135,7 +135,7 @@ aside {
 }
 
 aside .widget {
-	background: #d35400;
+	background: #f0eae7;
 	height:320px;
 	margin:10px;
 }
